@@ -1,0 +1,4 @@
+- [Photorealistic 3D head from images - Official FaceBuilder for Blender Tutorial](https://youtu.be/tETtRwCnLyg)
+- [2D TO 3D FACE-BUILDER IN BLENDER!](https://youtu.be/5WH7s-IPIeM)
+- [Photo to 3D Face in Blender! (EASY FaceBuilder Tutorial)](https://youtu.be/KXupWL50o8U)
+- [BLENDER TUTORIAL- Creating your own head in CGI for free!](https://youtu.be/8O7ow2qaoq4)
