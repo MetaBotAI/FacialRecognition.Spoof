@@ -11,6 +11,9 @@
 - [Conference / Meeting Room Environment ( Conference Meeting Room )](https://www.fab.com/listings/e3ad8089-e375-4f0e-8218-b43345c69d3c)
 - [Cicitoon Japanese-style Room V1.0](https://www.fab.com/listings/7fd9ff05-8141-4637-a697-664742f9234c)
 
+## Forest & Jungle
+- [Rural Australia](https://www.fab.com/listings/1c1467ce-a2f5-4be1-8988-9069f90a8571)
+
 # Buildings & Architecture
 - [Interior Scene](https://www.fab.com/listings/a926d36d-6460-4c6e-8aaa-c22667cb075f)
 - [GARDEN SUITES (TINY HOME)](https://www.fab.com/listings/383a742c-f995-4f84-afc5-cf9866a06b31)
