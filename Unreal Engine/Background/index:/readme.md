@@ -7,3 +7,7 @@
 
 # Buildings & Architecture
 - [GARDEN SUITES (TINY HOME)](https://www.fab.com/listings/383a742c-f995-4f84-afc5-cf9866a06b31)
+- [PH Store - Modern Living Room](https://www.fab.com/listings/cfc66260-c8fe-41f6-887f-a4c1cc09b148)
+
+## Residential Buildings
+- [Modern House Pack Vol.1](https://www.fab.com/listings/47ebf30c-a2a8-45f8-b282-7c5f424ced4f)
