@@ -9,6 +9,7 @@
 - [ArchViz Interior](https://www.fab.com/listings/62e0fe0f-3fd7-4d40-993a-cae13e8199f4)
 - [COZY GOLDEN HOUR ROOM 3D](https://www.fab.com/listings/7e66a803-9dd3-47d0-b8a5-b303ea65ed56)
 - [Conference / Meeting Room Environment ( Conference Meeting Room )](https://www.fab.com/listings/e3ad8089-e375-4f0e-8218-b43345c69d3c)
+- [Cicitoon Japanese-style Room V1.0](https://www.fab.com/listings/7fd9ff05-8141-4637-a697-664742f9234c)
 
 # Buildings & Architecture
 - [Interior Scene](https://www.fab.com/listings/a926d36d-6460-4c6e-8aaa-c22667cb075f)
