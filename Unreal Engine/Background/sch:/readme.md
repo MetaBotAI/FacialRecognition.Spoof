@@ -1,1 +1,3 @@
-https://www.fab.com/search?is_free=1&q=modern+house
+- https://www.fab.com/search?is_free=1&q=modern+house
+- https://www.fab.com/search?is_free=1&q=cozy+bathroom
+- https://www.fab.com/search?is_free=1&q=cozy+bathroom+design
